@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3452878-5325-4ac1-8cf5-2c49329e41a6" name="Changes" comment="answer exercise convertdate and DimensionReduction">
-      <change afterPath="$PROJECT_DIR$/.gitiqnore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/UniDatamining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataVisualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataVisualization.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b3452878-5325-4ac1-8cf5-2c49329e41a6" name="Changes" comment="answer exercise convertdate and DimensionReduction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682950012941</updated>
       <workItem from="1682950025865" duration="6431000" />
+      <workItem from="1682959219751" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="answer exercise convertdate and DimensionReduction">
       <created>1682957321023</created>
