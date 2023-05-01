@@ -1,0 +1,4 @@
+datamining_venv
+.idea
+*.pyc
+.gitiqnore
